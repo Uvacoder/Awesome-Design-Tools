@@ -20,7 +20,7 @@
   "bugs": {
     "url": "https://github.com/berezovskycom/Awesome-Design-Tools/issues"
   },
-  "homepage": "https://github.com/berezovskycom/Awesome-Design-Tools#readme",
+  "homepage": "https://awesome-design-tools.vercel.app/",
   "devDependencies": {
     "express": "^4.17.1",
     "html-minifier": "^3.5.21",
